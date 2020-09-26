@@ -40,3 +40,20 @@
   .container-fluid,.row,.col-md-2{
     border:none;
   }
+
+  #repolink{
+    text-align:center;
+    color: #fff;
+    background-color:teal;
+  }
+
+  #repolink{
+    background-color:teal;
+    color:white;
+    text-align:center;
+  }
+
+  .col-md-4{
+    background-color: black;
+    border:none;
+  }
